@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class02.Task01.RealCalculator", "Homework.CSharpOop.Class02.Task01.RealCalculator\Homework.CSharpOop.Class02.Task01.RealCalculator.csproj", "{0F411198-2A83-4A71-8357-6AE7ADC81944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework.CSharpOop.Class02.Task01.RealCalculator", "Homework.CSharpOop.Class02.Task01.RealCalculator\Homework.CSharpOop.Class02.Task01.RealCalculator.csproj", "{0F411198-2A83-4A71-8357-6AE7ADC81944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class02.Task01.AverageNumber", "Homework.CSharpOop.Class02.Task01.AverageNumber\Homework.CSharpOop.Class02.Task01.AverageNumber.csproj", "{6C5AA456-B602-47B2-8238-C71B2485679C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework.CSharpOop.Class02.Task01.AverageNumber", "Homework.CSharpOop.Class02.Task01.AverageNumber\Homework.CSharpOop.Class02.Task01.AverageNumber.csproj", "{6C5AA456-B602-47B2-8238-C71B2485679C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class02.Task03.SwapNumbers", "Homework.CSharpOop.Class02.Task03.SwapNumbers\Homework.CSharpOop.Class02.Task03.SwapNumbers.csproj", "{6607C8FD-B52D-47E1-B8AE-C776C218F550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6C5AA456-B602-47B2-8238-C71B2485679C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C5AA456-B602-47B2-8238-C71B2485679C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C5AA456-B602-47B2-8238-C71B2485679C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6607C8FD-B52D-47E1-B8AE-C776C218F550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6607C8FD-B52D-47E1-B8AE-C776C218F550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6607C8FD-B52D-47E1-B8AE-C776C218F550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6607C8FD-B52D-47E1-B8AE-C776C218F550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
