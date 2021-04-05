@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Task5", "Homework.CSharpOop.Bonus.Task5\Homework.CSharpOop.Bonus.Task5.csproj", "{4D311680-C299-430F-894F-412AB04FCF83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Task6", "Homework.CSharpOop.Bonus.Task6\Homework.CSharpOop.Bonus.Task6.csproj", "{020EC7C7-FAC4-4D15-859A-0FA1D9C3F2CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4D311680-C299-430F-894F-412AB04FCF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D311680-C299-430F-894F-412AB04FCF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D311680-C299-430F-894F-412AB04FCF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020EC7C7-FAC4-4D15-859A-0FA1D9C3F2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020EC7C7-FAC4-4D15-859A-0FA1D9C3F2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020EC7C7-FAC4-4D15-859A-0FA1D9C3F2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020EC7C7-FAC4-4D15-859A-0FA1D9C3F2CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
