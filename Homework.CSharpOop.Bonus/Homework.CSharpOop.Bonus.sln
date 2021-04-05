@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Task2", "Homework.CSharpOop.Bonus.Task2\Homework.CSharpOop.Bonus.Task2.csproj", "{1EBEAE3C-6EF0-4774-9AC3-590B7C19919B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Task3", "Homework.CSharpOop.Bonus.Task3\Homework.CSharpOop.Bonus.Task3.csproj", "{D4B4AE26-3E7B-4325-8BCD-69210F12EDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1EBEAE3C-6EF0-4774-9AC3-590B7C19919B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBEAE3C-6EF0-4774-9AC3-590B7C19919B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBEAE3C-6EF0-4774-9AC3-590B7C19919B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B4AE26-3E7B-4325-8BCD-69210F12EDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B4AE26-3E7B-4325-8BCD-69210F12EDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B4AE26-3E7B-4325-8BCD-69210F12EDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B4AE26-3E7B-4325-8BCD-69210F12EDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
