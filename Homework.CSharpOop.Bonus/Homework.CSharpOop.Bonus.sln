@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework.CSharpOop.Bonus.Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework.CSharpOop.Bonus.Task9", "Homework.CSharpOop.Bonus.Task9\Homework.CSharpOop.Bonus.Task9.csproj", "{E38E8548-0A7C-47D6-A580-234CCD66CF5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Bonus.Task10", "Homework.CSharpOop.Bonus.Task10\Homework.CSharpOop.Bonus.Task10.csproj", "{0D07B2A3-4BF1-499B-BF19-D665147BAF01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E38E8548-0A7C-47D6-A580-234CCD66CF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E38E8548-0A7C-47D6-A580-234CCD66CF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E38E8548-0A7C-47D6-A580-234CCD66CF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D07B2A3-4BF1-499B-BF19-D665147BAF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D07B2A3-4BF1-499B-BF19-D665147BAF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D07B2A3-4BF1-499B-BF19-D665147BAF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D07B2A3-4BF1-499B-BF19-D665147BAF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
