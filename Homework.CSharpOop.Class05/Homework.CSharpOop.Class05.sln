@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class05.Task0", "Homework.CSharpOop.Class05.Task0\Homework.CSharpOop.Class05.Task0.csproj", "{9E26076E-BD7B-462C-82DB-AA85D76D7F15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class05.Task01", "Homework.CSharpOop.Class05.Task01\Homework.CSharpOop.Class05.Task01.csproj", "{E9157D3A-76A1-401F-A815-93C39FB42F4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9E26076E-BD7B-462C-82DB-AA85D76D7F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E26076E-BD7B-462C-82DB-AA85D76D7F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E26076E-BD7B-462C-82DB-AA85D76D7F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9157D3A-76A1-401F-A815-93C39FB42F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9157D3A-76A1-401F-A815-93C39FB42F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9157D3A-76A1-401F-A815-93C39FB42F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9157D3A-76A1-401F-A815-93C39FB42F4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
