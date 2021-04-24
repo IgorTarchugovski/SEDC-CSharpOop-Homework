@@ -52,8 +52,6 @@ namespace Homework.CSharpOop.Class05.Task04
                 return counter;
             }
 
-
-
             Console.ReadLine();
         }
     }
