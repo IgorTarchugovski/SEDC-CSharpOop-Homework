@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class05.Task09", "Homework.CSharpOop.Class05.Task09\Homework.CSharpOop.Class05.Task09.csproj", "{FBC39F54-1D57-46E3-8661-E161BE55937D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.CSharpOop.Class05.Task10", "Homework.CSharpOop.Class05.Task10\Homework.CSharpOop.Class05.Task10.csproj", "{B6553820-5A92-418A-8A8C-20EA7941189D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FBC39F54-1D57-46E3-8661-E161BE55937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC39F54-1D57-46E3-8661-E161BE55937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC39F54-1D57-46E3-8661-E161BE55937D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6553820-5A92-418A-8A8C-20EA7941189D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6553820-5A92-418A-8A8C-20EA7941189D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6553820-5A92-418A-8A8C-20EA7941189D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6553820-5A92-418A-8A8C-20EA7941189D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
