@@ -21,7 +21,7 @@ namespace Homework.CSharpOop.Class05.Bonus
             {
                 Console.Write("Enter your Birth date (mm.dd.yyyy): ");
                 isValid = DateTime.TryParse(Console.ReadLine(), out DateTime userInput);
-                if (!isValid)
+                if (!isValid || userInput > DateTime.Today)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Please enter a valid date format! (mm.dd.yyyy), (mm-dd-yyyy), (mm/dd/yyyy)");
